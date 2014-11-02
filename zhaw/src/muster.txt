@@ -1,0 +1,8 @@
+Hello,
+
+this is an example text file which has to be used 
+only for testing purposes in order easier to be understand 
+the algorithms' results. So, this is for now.
+
+Good luck!
+Your ZHAW Crue
